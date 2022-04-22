@@ -1,0 +1,26 @@
+.myNavLink {
+    color: rgb(7, 7, 7);
+    text-decoration: none;
+    font-size: 0.9em;
+    font-weight: bold;
+    padding: 10px;
+    margin: 10px;
+}
+
+.active {
+    color: rgb(62, 62, 238);
+}
+
+.myNavLink:hover {
+    color: rgb(104, 108, 103);
+}
+
+.logo{
+    color:rgb(86, 62, 238);
+    text-decoration: none;
+    font-size: 1em;    
+}
+
+.logo:active, .logo:visited{
+    color:rgb(62, 62, 238);
+}
